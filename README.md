@@ -2,17 +2,17 @@
 This roadmap outlines a step-by-step learning plan, from foundational concepts to advanced topics in options trading. As a Node.js developer with a strong technical background, you can leverage your analytical and programming skills to master these concepts and build your own trading tools.
 
 # Table of Contents
-[Introduction to Options Trading](#introduction)
-[Fundamental Concepts](#fundamental)
-[Understanding Option Pricing](#optionpricing)
-[Advanced Options Concepts](#advancedoptions)
-[Trading Strategies](#strategies)
-[Risk Management and Psychology](#riskandpsy)
-[Practical Implementation & Tools](#practical)
-[Simulations, Backtesting, and Live Trading](#simulation)
-[Further Learning & Community Involvement](#further)
+- [Introduction to Options Trading](#introduction)
+- [Fundamental Concepts](#fundamental)
+- [Understanding Option Pricing](#optionpricing)
+- [Advanced Options Concepts](#advancedoptions)
+- [Trading Strategies](#strategies)
+- [Risk Management and Psychology](#riskandpsy)
+- [Practical Implementation & Tools](#practical)
+- [Simulations, Backtesting, and Live Trading](#simulation)
+- [Further Learning & Community Involvement](#further)
 
-# 1. Introduction to Options Trading
+# Introduction
 - What is an Option?
   - Definition of options (call and put options)
   - Difference between options and other financial instruments (stocks, futures, etc.)
