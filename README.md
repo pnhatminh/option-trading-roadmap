@@ -4,10 +4,10 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
 # Table of Contents
 - [Introduction to Options Trading](#introduction)
 - [Fundamental Concepts](#fundamental)
-- [Understanding Option Pricing](#optionpricing)
-- [Advanced Options Concepts](#advancedoptions)
+- [Understanding Option Pricing](#options)
+- [Advanced Options Concepts](#advanced)
 - [Trading Strategies](#strategies)
-- [Risk Management and Psychology](#riskandpsy)
+- [Risk Management and Psychology](#risks)
 - [Practical Implementation & Tools](#practical)
 - [Simulations, Backtesting, and Live Trading](#simulation)
 - [Further Learning & Community Involvement](#further)
@@ -25,7 +25,7 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
   - Investopedia’s Options Basics
   - Introductory videos on YouTube (e.g., Khan Academy, tastytrade)
 
-# 2. Fundamental Concepts
+# Fundamental
 - Basic Financial Literacy
   - Time Value of Money
   - Risk vs. Reward
@@ -38,7 +38,7 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
 - Resources:
   - Books: “Options as a Strategic Investment” by Lawrence G. McMillan (selected chapters)
   - Online courses (Coursera, Khan Academy finance courses)
-# 3. Understanding Option Pricing
+# Options
 - The Black-Scholes Model
 
   - Intuition and derivation of the model
@@ -53,7 +53,7 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
 - Resources:
   - Online tutorials and courses (YouTube, MIT OpenCourseWare)
   - Coding projects: Implementing Black-Scholes and Binomial models in JavaScript/Node.js
-# 4. Advanced Options Concepts
+# Advanced
 - Exotic Options and Variations
   - Barrier options, digital options, and other non-standard options
   - Implied Volatility & Volatility Smiles/Skews
@@ -63,7 +63,7 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
 - Resources:
   - Advanced textbooks or courses in quantitative finance
   - Research papers and articles from SSRN or arXiv
-# 5. Trading Strategies
+# Strategies
 -  Basic Strategies
   - Long Calls, Long Puts, Covered Calls, Protective Puts
 - Intermediate Strategies
@@ -78,7 +78,7 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
 - Resources:
   - Interactive strategy simulators online
   - Books: “Option Volatility and Pricing” by Sheldon Natenberg
-# 6. Risk Management and Psychology
+# Risks
 - Risk Management Principles
   - Position sizing, diversification, and stop-loss techniques
   - Portfolio risk management using options
@@ -89,7 +89,7 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
 - Resources:
   - Articles and blog posts from seasoned traders
   - Webinars on risk management in trading
-# 7. Practical Implementation & Tools
+# Practical
 - Building Your Trading Toolbox
   - Setting up a development environment for data analysis (Node.js, Python integration)
   - Using APIs to fetch market data (e.g., Alpha Vantage, IEX Cloud)
@@ -102,7 +102,7 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
 - Resources:
   - GitHub repositories with sample projects
   - Tutorials on financial data analysis in JavaScript
-# 8. Simulations, Backtesting, and Live Trading
+# Simulation
 - Backtesting Strategies
   - Setting up historical data and simulation environments
   - Evaluating performance metrics (Sharpe ratio, drawdown, etc.)
@@ -114,7 +114,7 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
 - Resources:
   - Platforms like Thinkorswim (paper trading) or Interactive Brokers
   - Libraries and frameworks for backtesting in JavaScript and Python
-# 9. Further Learning & Community Involvement
+# Further
 - Networking and Mentorship
   - Join online communities (Reddit, Stack Exchange, Quantopian)
   - Attend webinars, local meetups, or online conferences in quantitative finance
@@ -131,9 +131,9 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
     Begin with small-scale projects and simulated trading to test theories before committing real capital.
 
   - Iterative Learning:
-  Options trading is complex. Keep revisiting fundamental concepts even as you delve into advanced strategies.
+    Options trading is complex. Keep revisiting fundamental concepts even as you delve into advanced strategies.
 
   - Leverage Your CS Skills:
-  - Use your coding expertise to build custom tools that can give you an edge in analyzing markets and automating trades.
+    Use your coding expertise to build custom tools that can give you an edge in analyzing markets and automating trades.
 
 Happy learning and trading!🥳
