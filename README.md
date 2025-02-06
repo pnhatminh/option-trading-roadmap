@@ -13,9 +13,9 @@ This roadmap outlines a step-by-step learning plan, from foundational concepts t
 - [Further Learning & Community Involvement](#further)
 
 # Introduction
-- What is an Option?
-  - Definition of options (call and put options)
-  - Difference between options and other financial instruments (stocks, futures, etc.)
+- [] What is an Option?
+  - [] Definition of options (call and put options)
+  - [] Difference between options and other financial instruments (stocks, futures, etc.)
 - Key Terminology
   - Strike Price, Expiration Date, Premium, Underlying Asset, etc.
 - Historical Context & Market Overview
